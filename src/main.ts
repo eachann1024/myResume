@@ -4,6 +4,7 @@ import { routes } from 'vue-router/auto-routes'
 import App from './App.vue'
 import './style.css'
 import 'uno.css'
+import '@unocss/reset/normalize.css'
 
 const router = createRouter({
   history: createWebHistory(),
