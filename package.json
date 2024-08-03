@@ -1,0 +1,31 @@
+{
+  "name": "myresume",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "radash": "^12.1.0",
+    "vue": "^3.4.31"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.24.1",
+    "@iconify/json": "^2.2.233",
+    "@types/node": "^22.1.0",
+    "@unocss/eslint-plugin": "^0.61.9",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "code-inspector-plugin": "^0.15.2",
+    "eslint": "9.5.0",
+    "eslint-plugin-format": "^0.1.2",
+    "typescript": "^5.2.2",
+    "unocss": "^0.61.9",
+    "unplugin-auto-import": "^0.18.2",
+    "vite": "^5.3.4",
+    "vite-plugin-pages": "^0.32.3",
+    "vue-tsc": "^2.0.24"
+  }
+}
