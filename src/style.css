@@ -27,6 +27,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-size: 14px;
+  background-size: cover;
+  background-position: center;
+  /* background-image: url('https://images.unsplash.com/photo-1533134486753-c833f0ed4866'); */
+  background-image: url('https://images.unsplash.com/photo-1508615039623-a25605d2b022');
 }
 
 button {

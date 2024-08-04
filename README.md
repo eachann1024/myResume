@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# Resume
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+先做一个我自己用的顺手、看的顺眼的简历
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+1. 不能选中文字，避免光标来回变动
+2. 支持深浅色切换:包含背景图、全局颜色字体
+3. 自定义背景图、自定义字体
+
+# TODO
+
+- [x] 直接使用 html + tailwind 技术进行修改自己喜欢的风格
+- [] 支持更好的修改简历的方式
+- [] 生成小程序查看
+- [] 保存为 pdf 的形式
